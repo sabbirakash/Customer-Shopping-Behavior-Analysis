@@ -99,7 +99,7 @@ Developed an interactive Power BI dashboard visualizing key insights:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Customer-Shopping-Behavior-Analysis.git
+   git clone https://github.com/sabbirakash/Customer-Shopping-Behavior-Analysis.git
    cd Customer-Shopping-Behavior-Analysis
    ```
 2. Open the Jupyter notebook:
